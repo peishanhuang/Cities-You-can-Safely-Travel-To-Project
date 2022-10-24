@@ -1,0 +1,16 @@
+Area,Updated_Today,Now_Confirmed,Suspect,Grade,Day_Weather,Night_Weather,Max_tmp,Min_tmp,Date
+昆明,False,0,0,Not_Available,小雨,小雨,12,5,2021-11-30
+上海,True,64,0,Not_Available,晴,晴,13,4,2021-11-30
+广州,False,0,0,全部低风险,晴,晴,22,8,2021-11-30
+青岛,False,0,0,Not_Available,阴,晴,7,1,2021-11-30
+成都,True,18,0,全部低风险,晴,多云,15,7,2021-11-30
+天津,True,22,0,Not_Available,晴,晴,5,-2,2021-11-30
+南京,False,0,0,Not_Available,多云,晴,16,-1,2021-11-30
+苏州,False,0,0,Not_Available,多云,晴,16,3,2021-11-30
+杭州,False,1,0,全部低风险,多云,晴,13,3,2021-11-30
+宁波,False,0,0,Not_Available,多云,晴,13,4,2021-11-30
+北京,True,9,0,Not_Available,晴,晴,6,-5,2021-11-30
+西安,False,0,0,Not_Available,晴,多云,9,-2,2021-11-30
+重庆,True,5,0,Not_Available,晴,多云,15,7,2021-11-30
+武汉,False,0,0,全部低风险,晴,晴,15,0,2021-11-30
+贵阳,False,0,0,Not_Available,多云,多云,14,4,2021-11-30
